@@ -1,5 +1,5 @@
 $headers = @{
-    "X-Shopify-Access-Token" = "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"
+    "X-Shopify-Access-Token" = "X"
 }
 
 $url = "https://suppliesforblacksmiths.com/admin/api/2023-10/smart_collections.json"
